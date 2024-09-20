@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on company
 - 📫 How to reach me padiriski25@gmail.com
-- ⚡ Fun fact: I’m have one cat 👀
+- ⚡ Fun fact: I have one cat 👀
 
 <!---
 riskipad/riskipad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
